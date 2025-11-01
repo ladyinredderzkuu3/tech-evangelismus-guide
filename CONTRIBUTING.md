@@ -12,4 +12,4 @@ Danke, dass Sie sich für das Mitwirken am Tech Evangelismus Guide interessieren
 - Schreiben Sie klare, aussagekräftige Commit-Nachrichten.
 
 ## Community Verhalten
-Wir möchten, dass unser Projekt ein sicherer und einladender Ort für alle ist. Bitte verhalten Sie sich respektvoll und professionell.
+Wir möchten, dass unser Projekt ein sicherer und einladender Ort für alle ist. Bitte verhalten Sie sich respektvoll und professionell. Denken Sie daran, dass Toleranz und Offenheit für verschiedene Perspektiven und Erfahrungen zentral für die Förderung einer positiven Gemeinschaft sind.
