@@ -19,5 +19,5 @@ main {
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #e0e0e0;
+    background: #c0c0c0;  /* Changed for better contrast */
 }
